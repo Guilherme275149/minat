@@ -6633,7 +6633,7 @@ ${line}286 *${prefix}detector*
 ${line}
 ${line3} 𝗗𝗢𝗡𝗢 ${line4}
 ${line}
-${line} *NOME: 𝐷𝐴𝑅𝐾⃖  ☔*
+${line} *NOME: MINATO  ☔*
 ${line} *INSTA: no momento sem*
 ${line} *WPP: wa.me/+5511934488829*
 ${line} *YOUTUBE: MINATO YT*
